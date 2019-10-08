@@ -1,0 +1,46 @@
+2019-10-08 06:09:21,582 [1] INFO  LogManagers (null) - Now setting up JitProfiles...
+2019-10-08 06:09:21,624 [1] INFO  LogManagers (null) - JitProfiles successfully setup!
+2019-10-08 06:09:21,625 [1] INFO  LogManagers (null) - Now beginning pre-start tasks.
+2019-10-08 06:09:21,626 [1] INFO  LogManagers (null) - Now checking prerequisites...
+2019-10-08 06:09:21,729 [1] INFO  LogManagers (null) - mscorlib
+2019-10-08 06:09:21,730 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,730 [1] INFO  LogManagers (null) - PresentationFramework
+2019-10-08 06:09:21,731 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,732 [1] INFO  LogManagers (null) - log4net
+2019-10-08 06:09:21,733 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,733 [1] INFO  LogManagers (null) - ClosedXML
+2019-10-08 06:09:21,733 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,734 [1] INFO  LogManagers (null) - System
+2019-10-08 06:09:21,734 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,735 [1] INFO  LogManagers (null) - System.Xaml
+2019-10-08 06:09:21,736 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,736 [1] INFO  LogManagers (null) - PresentationCore
+2019-10-08 06:09:21,737 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,737 [1] INFO  LogManagers (null) - System.Core
+2019-10-08 06:09:21,737 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,738 [1] INFO  LogManagers (null) - Newtonsoft.Json
+2019-10-08 06:09:21,747 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,748 [1] INFO  LogManagers (null) - WindowsBase
+2019-10-08 06:09:21,751 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,752 [1] INFO  LogManagers (null) - System.Windows.Forms
+2019-10-08 06:09:21,858 [1] INFO  LogManagers (null) - OK!
+2019-10-08 06:09:21,858 [1] INFO  LogManagers (null) - Prerequisite check complete!
+2019-10-08 06:09:21,865 [1] INFO  LogManagers (null) - [CodeCompiler] Ready to compile.
+2019-10-08 06:09:21,874 [1] INFO  LogManagers (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2019-10-08 06:09:21,875 [1] INFO  LogManagers (null) - Pre-start tasks successfully completed.
+2019-10-08 06:09:21,954 [1] DEBUG LogManagers (null) - Reloading AssemblyLoader<WpfApp1.Triton.Common.Plugins.IPlugin> - Initializing
+2019-10-08 06:09:22,489 [1] DEBUG LogManagers (null) - P114T5.P114T5
+2019-10-08 06:09:23,709 [1] DEBUG LogManagers (null) - P114T5.P114T5
+2019-10-08 06:09:26,566 [1] DEBUG LogManagers (null) - [P114T5] Enable
+2019-10-08 06:09:34,131 [1] INFO  LogManagers (null) - [P114T5] drawcard for 5 times.
+2019-10-08 06:09:34,137 [1] INFO  LogManagers (null) - [P114T5] for 1th time. 
+2019-10-08 06:09:34,318 [1] INFO  LogManagers (null) - [P114T5] for 2th time. 
+2019-10-08 06:09:34,358 [1] INFO  LogManagers (null) - [P114T5] for 3th time. 
+2019-10-08 06:09:34,397 [1] INFO  LogManagers (null) - [P114T5] for 4th time. 
+2019-10-08 06:09:34,436 [1] INFO  LogManagers (null) - [P114T5] for 5th time. 
+2019-10-08 06:09:35,078 [1] INFO  LogManagers (null) - [P114T5] drawcard for 5 times.
+2019-10-08 06:09:35,078 [1] INFO  LogManagers (null) - [P114T5] for 1th time. 
+2019-10-08 06:09:35,113 [1] INFO  LogManagers (null) - [P114T5] for 2th time. 
+2019-10-08 06:09:35,123 [1] INFO  LogManagers (null) - [P114T5] for 3th time. 
+2019-10-08 06:09:35,137 [1] INFO  LogManagers (null) - [P114T5] for 4th time. 
+2019-10-08 06:09:35,158 [1] INFO  LogManagers (null) - [P114T5] for 5th time. 
